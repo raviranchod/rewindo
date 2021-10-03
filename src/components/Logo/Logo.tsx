@@ -1,5 +1,3 @@
-import * as Style from "./Logo.styled";
-
 const Logo = () => (
   <svg
     width='100%'
